@@ -25,7 +25,7 @@ class Registration extends React.Component {
       projectId: "safe-deposit-30066",
       storageBucket: "safe-deposit-30066.appspot.com",
       messagingSenderId: "122396467700",
-      appId: "1:122396467700:web:1279240f5d718cce7859a1"
+      appId: "1:122396467700:web:4e20ba9f930b1a857859a1"
     };
     
     const app = initializeApp(firebaseConfig);
